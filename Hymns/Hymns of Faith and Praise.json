@@ -1,1 +1,36 @@
+{
+  "id": "HF&A",
+  "name": "Himnario De Fé y Alabanza",
+  "shortName": "Fé y Alabanza",
+  "denomination": "Iglesia del Nazareno",
+  "version": "1.0",
+  "totalHymns": 1,
+  "hymns": [
+    {
+      "number": 1,
+      "title": "CUAN GRANDE ES ÉL",
+      "originalTitle": "(How Great Thou Art)",
+      "author": "Carl Boberg 1885",
+      "composer": "",
+      "category": "",
+      "biblicalReference": "",
+      "keySignature": "",
+      "timeSignature": "",
+      "tempo": null,
+      "stanzas": [
+        "Señor, mi Dios, al contemplar los cielos,\nEl firmamento y las estrellas mil,\nAl oír Tu voz en los potentes truenos \nY ver brillar el sol en su cenit,",
+        "Al recorrer los montes y los valles \nY ver las bellas flores al pasar,\nAl escuchar el canto de las aves\nY el murmurar del claro manantial,",
+        "Cuando recuerdo del amor divino\nQue desde el cielo al Salvador envió,\nAquel Jesús que por salvarme vino\nY en una cruz sufrió por mí y murió,",
+        "Cuando el Señor me llame a Su presencia,\nAl dulce hogar al cielo de esplendor;\nLe adoraré cantando la grandeza\nDe Su poder y Su infinito amor.",
+      ],
+      "chorus": "Mi corazón entona esta canción,\n¡Cuán grande es Él!\n¡Cuán grande es Él!\nMi corazón entona esta canción,\n¡Cuán grande es Él! ¡Cuán grande es Él!",
+      "notes": "",
+      "melodyNotes": []
+    },
 
+Stuart K. Hine
+ (How Great Thou Art)
+
+
+  ]
+}
