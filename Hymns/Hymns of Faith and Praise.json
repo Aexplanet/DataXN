@@ -1,16 +1,40 @@
 {
   "id": "HF&A",
-  "name": "Himnario De Fé y Alabanza",
-  "shortName": "Fé y Alabanza",
+  "name": "Himnario Fé y Alabanza",
+  "shortName": "FÉ Y ALABANZA",
   "denomination": "Iglesia del Nazareno",
   "version": "1.0",
-  "totalHymns": 1,
-  "hymns": [
+  "totalHymns": 50,
+  "hymns": 
+  [
     {
       "number": 1,
       "title": "CUAN GRANDE ES ÉL",
-      "originalTitle": "(How Great Thou Art)",
-      "author": "Carl Boberg 1885",
+      "originalTitle": "How Great Thou Art",
+      "category": "Santidad y Consagración",
+      "author": "Carl Boberg (1885)",
+      "composer": "",
+      "biblicalReference": "Salmo 8:3-4",
+      "keySignature": "Si bemol (Bb)",
+      "timeSignature": "",
+      "tempo": null,
+      "stanzas": 
+      [  
+        "Señor, mi Dios, al contemplar los cielos,\nEl firmamento y las estrellas mil,\nAl oír Tu voz en los potentes truenos \nY ver brillar el sol en su cenit,",
+        "Al recorrer los montes y los valles \nY ver las bellas flores al pasar,\nAl escuchar el canto de las aves\nY el murmurar del claro manantial,",
+        "Cuando recuerdo del amor divino\nQue desde el cielo al Salvador envió,\nAquel Jesús que por salvarme vino\nY en una cruz sufrió por mí y murió,",
+        "Cuando el Señor me llame a Su presencia,\nAl dulce hogar al cielo de esplendor;\nLe adoraré cantando la grandeza\nDe Su poder y Su infinito amor."
+      ],
+      "chorus": "Mi corazón entona esta canción,\n¡Cuán grande es Él!\n¡Cuán grande es Él!\nMi corazón entona esta canción,\n¡Cuán grande es Él! ¡Cuán grande es Él!",
+      "notes": "",
+      "melodyNotes": [
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Se Oye Un Son En Alta Esfera",
+      "originalTitle": "",
+      "author": "",
       "composer": "",
       "category": "",
       "biblicalReference": "",
@@ -18,14 +42,19 @@
       "timeSignature": "",
       "tempo": null,
       "stanzas": [
-        "Señor, mi Dios, al contemplar los cielos,\nEl firmamento y las estrellas mil,\nAl oír Tu voz en los potentes truenos \nY ver brillar el sol en su cenit,",
-        "Al recorrer los montes y los valles \nY ver las bellas flores al pasar,\nAl escuchar el canto de las aves\nY el murmurar del claro manantial,",
-        "Cuando recuerdo del amor divino\nQue desde el cielo al Salvador envió,\nAquel Jesús que por salvarme vino\nY en una cruz sufrió por mí y murió,",
-        "Cuando el Señor me llame a Su presencia,\nAl dulce hogar al cielo de esplendor;\nLe adoraré cantando la grandeza\nDe Su poder y Su infinito amor.",
+            "Se oye un son en alta esfera:\n¡en los cielos gloria a Dios!\n¡Al mortal paz en la tierra!\nCanta la celeste voz\nCon los cielos alabemos\nAl eterno Rey cantemos\nA Jesús que es nuestro bien\nCon el coro de Belén",
+            "Canta la celeste voz:\n¡en los cielos gloria a Dios!",
+            "El Señor de los señores\nEl Ungido celestial\nA salvar los pecadores\nVino al mundo terrenal\nGloria al Verbo encarnado\nEn humanidad velado\nGloria al Santo de Israel\nCuyo nombre es Emmanuel",
+            "Canta la celeste voz:\n¡en los cielos gloria a Dios!",
+            "Príncipe de paz eterna\nGloria a ti, Señor Jesús\nEntregando el alma tierna\nTú nos traes vida y luz\nCon los cielos alabemos\nAl eterno Rey cantemos\nA Jesús que es nuestro bien\nCon el coro de Belén",
+            "Canta la celeste voz:\n¡en los cielos gloria a Dios!"
       ],
-      "chorus": "Mi corazón entona esta canción,\n¡Cuán grande es Él!\n¡Cuán grande es Él!\nMi corazón entona esta canción,\n¡Cuán grande es Él! ¡Cuán grande es Él!",
+      "chorus": "",
       "notes": "",
       "melodyNotes": []
-    },
+    }
   ]
 }
+
+
+
